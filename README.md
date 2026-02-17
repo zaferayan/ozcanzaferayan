@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Maaş Sorulunca Yapılacaklar](https://zaferayan.medium.com/maa%C5%9F-sorulunca-yap%C4%B1lacaklar-9ad4bbebc77a?source=rss-d6b32fe8f8------2)
 - [Frontend Developer’lar İçin En Önemli 10 VS Code Extension](https://zaferayan.medium.com/frontend-developerlar-i%CC%87%C3%A7in-en-%C3%B6nemli-10-vs-code-extension-13cec0ad471a?source=rss-d6b32fe8f8------2)
 - [Uygulamanızı 0&#39;dan 100 Kullanıcıya Taşıyın](https://zaferayan.medium.com/uygulama-yapt%C4%B1k-ee-sonra-ec57d0131d74?source=rss-d6b32fe8f8------2)
 - [Herkesin Dilindeki Agentic AI Nedir?](https://zaferayan.medium.com/herkesin-dilindeki-agentic-ai-nedir-62688438fa9b?source=rss-d6b32fe8f8------2)
-- [Expo’da Kaçınılması Gereken Paketler](https://zaferayan.medium.com/expoda-ka%C3%A7%C4%B1n%C4%B1lmas%C4%B1-gereken-paketler-33048aed5d71?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
