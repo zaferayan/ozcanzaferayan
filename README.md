@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microfrontend Projelerinin %70’i Neden Başarısız Olur?](https://zaferayan.medium.com/microfrontend-projelerinin-70i-neden-ba%C5%9Far%C4%B1s%C4%B1z-olur-1c5b5965389d?source=rss-d6b32fe8f8------2)
 - [Yazılımcılık Öldü Mü? &lpar;Tarihsel Anlatım&rpar;](https://zaferayan.medium.com/yaz%C4%B1l%C4%B1mc%C4%B1l%C4%B1k-%C3%B6ld%C3%BC-m%C3%BC-tarihsel-anlat%C4%B1m-0625221b803b?source=rss-d6b32fe8f8------2)
 - [Maaş Sorulunca Yapılacaklar](https://zaferayan.medium.com/maa%C5%9F-sorulunca-yap%C4%B1lacaklar-9ad4bbebc77a?source=rss-d6b32fe8f8------2)
 - [Frontend Developer’lar İçin En Önemli 10 VS Code Extension](https://zaferayan.medium.com/frontend-developerlar-i%CC%87%C3%A7in-en-%C3%B6nemli-10-vs-code-extension-13cec0ad471a?source=rss-d6b32fe8f8------2)
-- [Uygulamanızı 0&#39;dan 100 Kullanıcıya Taşıyın](https://zaferayan.medium.com/uygulama-yapt%C4%B1k-ee-sonra-ec57d0131d74?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
