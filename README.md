@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Module Federation vs. Single-SPA: Hangisi Ne Zaman Kullanılmalı?](https://zaferayan.medium.com/module-federation-vs-single-spa-hangisi-ne-zaman-kullan%C4%B1lmal%C4%B1-fee0ae02b7d0?source=rss-d6b32fe8f8------2)
 - [Microfrontend Mimarisine Geçiş: Adım Adım Rehber](https://zaferayan.medium.com/microfrontend-mimarisine-ge%C3%A7i%C5%9F-ad%C4%B1m-ad%C4%B1m-rehber-8f407c2d31ca?source=rss-d6b32fe8f8------2)
 - [Microfrontend Projelerinin %70’i Neden Başarısız Olur?](https://zaferayan.medium.com/microfrontend-projelerinin-70i-neden-ba%C5%9Far%C4%B1s%C4%B1z-olur-1c5b5965389d?source=rss-d6b32fe8f8------2)
 - [Yazılımcılık Öldü Mü? &lpar;Tarihsel Anlatım&rpar;](https://zaferayan.medium.com/yaz%C4%B1l%C4%B1mc%C4%B1l%C4%B1k-%C3%B6ld%C3%BC-m%C3%BC-tarihsel-anlat%C4%B1m-0625221b803b?source=rss-d6b32fe8f8------2)
-- [Maaş Sorulunca Yapılacaklar](https://zaferayan.medium.com/maa%C5%9F-sorulunca-yap%C4%B1lacaklar-9ad4bbebc77a?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
