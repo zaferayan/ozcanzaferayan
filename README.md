@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend’de Domain-Driven Design Nasıl Uygulanır?](https://zaferayan.medium.com/frontendde-domain-driven-design-nas%C4%B1l-uygulan%C4%B1r-88d16e230120?source=rss-d6b32fe8f8------2)
 - [Enterprise React Projelerinde Klasör Yapısı ve Modül Organizasyonu](https://zaferayan.medium.com/enterprise-react-projelerinde-klas%C3%B6r-yap%C4%B1s%C4%B1-ve-mod%C3%BCl-organizasyonu-34f5b795e45e?source=rss-d6b32fe8f8------2)
 - [Monolitik React Uygulamasını Parçalama Stratejileri](https://zaferayan.medium.com/monolitik-react-uygulamas%C4%B1n%C4%B1-par%C3%A7alama-stratejileri-ac52cb308caf?source=rss-d6b32fe8f8------2)
 - [Module Federation vs. Single-SPA: Hangisi Ne Zaman Kullanılmalı?](https://zaferayan.medium.com/module-federation-vs-single-spa-hangisi-ne-zaman-kullan%C4%B1lmal%C4%B1-fee0ae02b7d0?source=rss-d6b32fe8f8------2)
-- [Microfrontend Mimarisine Geçiş: Adım Adım Rehber](https://zaferayan.medium.com/microfrontend-mimarisine-ge%C3%A7i%C5%9F-ad%C4%B1m-ad%C4%B1m-rehber-8f407c2d31ca?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
